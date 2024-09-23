@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <h1>THis is Hello Campus Expense</h1>
+    <h1>Truong Vu Trieu</h1>
   </div>
 </template>
 
